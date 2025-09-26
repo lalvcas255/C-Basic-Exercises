@@ -1,0 +1,28 @@
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/bin/Debug/net9.0/HelloWorld
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/home/leire-pei-alvarez-de-los-corrale/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/bin/Debug/net9.0/HelloWorld
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
