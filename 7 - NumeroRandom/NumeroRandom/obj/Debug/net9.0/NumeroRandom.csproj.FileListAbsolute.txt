@@ -1,0 +1,5 @@
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/2 - Tipos De Datos A/NumeroRandom/NumeroRandom/obj/Debug/net9.0/NumeroRandom.GeneratedMSBuildEditorConfig.editorconfig
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/2 - Tipos De Datos A/NumeroRandom/NumeroRandom/obj/Debug/net9.0/NumeroRandom.AssemblyInfoInputs.cache
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/2 - Tipos De Datos A/NumeroRandom/NumeroRandom/obj/Debug/net9.0/NumeroRandom.AssemblyInfo.cs
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/2 - Tipos De Datos A/NumeroRandom/NumeroRandom/obj/Debug/net9.0/NumeroRandom.csproj.CoreCompileInputs.cache
+/home/leire-pei-alvarez-de-los-corrale/Documents/C# Basic Exercises/2 - Tipos De Datos A/NumeroRandom/NumeroRandom/obj/Debug/net9.0/NumeroRandom.MvcApplicationPartsAssemblyInfo.cache
